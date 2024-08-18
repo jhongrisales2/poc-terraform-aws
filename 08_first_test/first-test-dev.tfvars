@@ -1,0 +1,5 @@
+profile         = "048395857825_AdministratorAccess"
+aws_region      = "us-west-2"
+iam_user_name   = "ec2-ssm-role-access"
+vpc_cidr_block  = "10.96.0.0/16"
+ec2_server_name = "ec2-app-lendfront"
